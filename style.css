@@ -75,5 +75,10 @@ main > h2 {
     border-radius: 15px;
 }
 
+.card > p {
+    font-size: 125%;
+    text-align:center;
+}
+
 
 
