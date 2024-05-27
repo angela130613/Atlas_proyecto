@@ -21,3 +21,15 @@ header {
     flex-direction: column;
     justify-content: center;
 }
+
+.btn-header {
+    width: 6rem;
+    border: solid 1px rgb(0, 255, 149);
+    border-radius: 15px;
+    background-color: rgb(0, 255, 149);
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    box-shadow: 0 0 25px rgb(255, 255, 255);
+    cursor: pointer;
+}
+
