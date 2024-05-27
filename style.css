@@ -43,3 +43,11 @@ header > h1 {
     size: 10px;
 }
 
+main {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
