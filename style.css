@@ -148,6 +148,21 @@ main > h2 {
     font-size: 80px;
 }
 
+.dark-card{
+    width: 15rem;
+    height: 18rem;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    box-shadow: 0 0 25px 
+    rgb(0, 0, 0);
+    background-color: rgb(24, 6, 108);
+    color: aliceblue;
+    text-align: center;
+}
+
 
 
 
