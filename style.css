@@ -106,5 +106,9 @@ main > h2 {
     background: linear-gradient(170deg, transparent 20rem, rgb(0, 255, 149) 0);
 }
 
+.trapecio > img{
+    width: 30rem;
+}
+
 
 
