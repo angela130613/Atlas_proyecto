@@ -87,5 +87,16 @@ main > h2 {
     justify-content: end;
 }
 
+.btn-next{
+    width: 6rem;
+    border: solid 1px rgb(2, 0, 124);
+    border-radius: 15px;
+    background-color: rgb(2, 0, 124);
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
 
 
