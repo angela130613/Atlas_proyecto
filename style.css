@@ -110,5 +110,13 @@ main > h2 {
     width: 30rem;
 }
 
+.paragraph-trap{
+    width: 40rem;
+    margin: 2rem;
+    position: relative;
+    justify-content: end;
+    align-items: flex-end;
+}
+
 
 
