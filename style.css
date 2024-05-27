@@ -122,5 +122,17 @@ main > h2 {
     width: 25rem;
 }
 
+.btn-trap{
+    width: 6rem;
+    border: solid 1px rgb(2, 0, 124);
+    border-radius: 15px;
+    background-color: rgb(2, 0, 124);
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    box-shadow: 0 0 25px rgb(0, 0, 0);
+    cursor: pointer;
+    text-align: center;
+}
+
 
 
