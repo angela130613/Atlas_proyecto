@@ -98,5 +98,13 @@ main > h2 {
     text-align: center;
 }
 
+.trapecio {
+    width: 100%;
+    text-align: right;
+    display: flex;
+    align-items: flex-end;
+    background: linear-gradient(170deg, transparent 20rem, rgb(0, 255, 149) 0);
+}
+
 
 
