@@ -118,5 +118,9 @@ main > h2 {
     align-items: flex-end;
 }
 
+.paragraph-trap > img{
+    width: 25rem;
+}
+
 
 
