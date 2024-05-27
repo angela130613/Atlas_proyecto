@@ -135,7 +135,7 @@ main > h2 {
 
 .white-card{
     width: 15rem;
-    height: 18rem;
+    height: 22rem;
     margin: 40px;
     display: flex;
     flex-direction: column;
@@ -149,7 +149,7 @@ main > h2 {
 }
 .dark-card{
     width: 15rem;
-    height: 18rem;
+    height: 22rem;
     margin: 40px;
     display: flex;
     flex-direction: column;
