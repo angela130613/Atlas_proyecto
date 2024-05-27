@@ -217,6 +217,11 @@ footer{
     justify-content: center;
 }
 
+input{
+    border: solid 1px rgb(0, 255, 149);
+    background: transparent;
+}
+
 
 
 
