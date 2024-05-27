@@ -33,3 +33,7 @@ header {
     cursor: pointer;
 }
 
+header > h1 {
+    margin: 10px;
+}
+
